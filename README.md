@@ -1,7 +1,7 @@
 # gmpred_dev
 Occupancy grid map prediction for traffic scenarios using DL
 
-##Files
+## Files
 1. configuration.py - global configuratoin settings
 2. create_dataset.py - create dataset script
 3. pre_process_dataset.py - dataset preprocessing script
